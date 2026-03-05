@@ -13,7 +13,7 @@ let tempInFahrenheit = 0;
 for(let i = 0; i < 15; i++){
         tempInFahrenheit += fahrenheitTemps[i];
 };
-c//onsole.log("Total temperature in Fahrenheit for odd days: ", tempInFahrenheit, "°F");
+//onsole.log("Total temperature in Fahrenheit for odd days: ", tempInFahrenheit, "°F");
 
 //Sum Celsius temperatures in even days
 let tempInCelsius = 0;
